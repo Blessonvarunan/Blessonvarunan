@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 - Project Management
 - Embedded systems
    
-- ## Contact
-- [Blesson M V](blessoniitm@gmail.com) over Email 
-- [Blesson M V](https://www.linkedin.com/in/blesson-varunan/) on LinkedIn
+## Contact
+[Blesson M V](blessoniitm@gmail.com) over Email 
+[Blesson M V](https://www.linkedin.com/in/blesson-varunan/) on LinkedIn
 
 - 
 <!--
